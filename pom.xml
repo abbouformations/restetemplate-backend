@@ -13,8 +13,8 @@
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <!-- <packaging>war</packaging> -->
-    <name>springmvc-rest-data-jpa</name>
-    <description>Spring MVC + RestController +Spring Data JPA + MySQL</description>
+    <name>resttemplate-back</name>
+    <description>Rest Template Back end example</description>
 
     <properties>
         <java.version>17</java.version>
